@@ -89,4 +89,4 @@ if (command == "%clear") {
   }
 }    
 });
-client.login('ODQ1OTE4ODI1ODc4NzgxOTYz.YKn9TA.C-DQJXoXmGhqzR57IA-17Ru4jFg');
+client.login('');
